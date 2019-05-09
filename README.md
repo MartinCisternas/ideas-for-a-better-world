@@ -1,2 +1,4 @@
-# ideas-for-a-better-world--3
+# ideas-for-a-better-world
 Hi ! This is my first repository on github, i want to use this repository to share my ideas. Im exited to be readed by people around the world and if you like you can leave your coments to discuss ideas or offer your help to make it happen. My greatest passion is to make the world and people life better, so if you want to contribute with your ideas to give a chance to someone else materialize it or colaborate with others to make it come true youre welcome !
+
+I know nothing about programming, but im a really passionate by learning by doing, i can be a great help deveolping problem understanding and users/clients investigation, im very good creating business models and go to market strategies. If a can be help for anyone just contact me and i will be happy to help and collaborate.
